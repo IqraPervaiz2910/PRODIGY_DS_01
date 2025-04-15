@@ -1,15 +1,15 @@
 # PRODIGY_DS_01
 ## Visualizing Data Distribution
 
-Objective:
+### Objective:
 
 To create a bar chart or histogram to visualize the distribution of a continuous or categorical variable.
 
-Dataset Used:
+### Dataset Used:
 
 World Bank Population Dataset
 
-Tools & Libraries:
+### Tools & Libraries:
 
 Python
 
@@ -19,7 +19,7 @@ Matplotlib
 
 Seaborn
 
-Steps Involved:
+### Steps Involved:
 
 Loaded the World Bank population data using Pandas.
 
@@ -33,7 +33,7 @@ Created histograms to observe the distribution of population values across count
 
 Labeled axes, added titles, and customized visuals for clarity and presentation.
 
-Key Insights:
+### Key Insights:
 
 Identified countries with the highest population growth trends.
 
@@ -41,7 +41,7 @@ Observed population distribution globally for specific years.
 
 Gained a better understanding of how visualizations can simplify complex numerical data.
 
-Skills Applied:
+### Skills Applied:
 
 Data extraction and transformation
 
