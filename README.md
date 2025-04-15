@@ -1,5 +1,6 @@
 # PRODIGY_DS_01
-Task 01: Visualizing Data Distribution
+Visualizing Data Distribution
+
 Objective:
 
 To create a bar chart or histogram to visualize the distribution of a continuous or categorical variable.
