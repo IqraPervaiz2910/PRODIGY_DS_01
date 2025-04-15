@@ -1,5 +1,5 @@
 # PRODIGY_DS_01
-Visualizing Data Distribution
+## Visualizing Data Distribution
 
 Objective:
 
